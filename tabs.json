@@ -1,7 +1,21 @@
 {
   "users": {
     "bot_itsgazzauk": {
-      "hiddenTabs": []
+      "hiddenTabs": [
+        "tb-bp",
+        "tb-cmdnames",
+        "tb-appearance",
+        "tb-splash",
+        "tb-images",
+        "tb-customcmds",
+        "tb-blacklist",
+        "tb-viewerban",
+        "tb-mods",
+        "tb-loyalty",
+        "tb-setup",
+        "tb-discord",
+        "tb-viewerbuild"
+      ]
     }
   }
 }
