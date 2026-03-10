@@ -1,15 +1,7 @@
 {
   "users": {
     "itsgazzauk": {
-      "hiddenTabs": [
-        "tb-setup",
-        "tb-bp",
-        "tb-score",
-        "tb-timer",
-        "tb-history",
-        "tb-counter",
-        "tb-goal"
-      ]
+      "hiddenTabs": []
     }
   }
 }
